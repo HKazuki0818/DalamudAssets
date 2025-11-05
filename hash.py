@@ -16,8 +16,8 @@ def get_repo_url(repo_owner, repo_name, branch):
 
 def update_assets():
     """更新 asset.json 文件"""
-    # 读取现有的 asset.json
-    with codecs.open("asset.json", "r", encoding="utf-8") as f:
+    # 读取现有的 assetCN.json
+    with codecs.open("assetCN.json", "r", encoding="utf-8") as f:
         asset_json = json.load(f)
     
     # 获取当前仓库信息
