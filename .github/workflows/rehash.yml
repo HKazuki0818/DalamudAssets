@@ -5,6 +5,9 @@ on:
       - cn
   workflow_dispatch:
 
+permission:
+  write
+
 jobs:
   generate:
     name: Rehash Assets
