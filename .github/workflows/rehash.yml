@@ -5,8 +5,8 @@ on:
       - cn
   workflow_dispatch:
 
-permission:
-  write
+permissions:
+  contents: write
 
 jobs:
   generate:
