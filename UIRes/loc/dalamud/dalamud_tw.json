@@ -1316,15 +1316,15 @@
     "description": "Locs.get_PluginContext_DeletePluginConfigReload"
   },
   "InstallerAuthorWithoutDownloadCount": {
-    "message": " 作者：{0}",
+    "message": " 開發者：{0}",
     "description": "Locs.PluginBody_AuthorWithoutDownloadCount"
   },
   "InstallerAuthorWithDownloadCount": {
-    "message": " 作者：{0} 下載次數：{1})",
+    "message": " 開發者：{0} 下載次數：{1})",
     "description": "Locs.PluginBody_AuthorWithDownloadCount"
   },
   "InstallerAuthorWithDownloadCountUnavailable": {
-    "message": " 作者：{0}",
+    "message": " 開發者：{0}",
     "description": "Locs.PluginBody_AuthorWithDownloadCountUnavailable"
   },
   "InstallerCurrentChangeLog": {
@@ -1352,7 +1352,7 @@
     "description": "Locs.get_PluginBody_Incompatible"
   },
   "InstallerOutdatedWaitForUpdate": {
-    "message": "請等待作者更新。",
+    "message": "請等待開發者更新。",
     "description": "Locs.get_PluginBody_Outdated_WaitForUpdate"
   },
   "InstallerOutdatedCanNowUpdate": {
@@ -1376,7 +1376,7 @@
     "description": "Locs.get_PluginBody_NoServiceThirdCrossUpdate"
   },
   "InstallerLoadFailedPluginBody ": {
-    "message": "插件載入失敗。請聯絡作者以取得更多資訊。",
+    "message": "插件載入失敗。請聯絡開發者以取得更多資訊。",
     "description": "Locs.get_PluginBody_LoadFailed"
   },
   "InstallerBannedPluginBody ": {
@@ -1600,7 +1600,7 @@
     "description": "Locs.get_ErrorModal_Title"
   },
   "InstallerContactAuthor": {
-    "message": "請重啟遊戲再試一次。如果再次出現此錯誤，請聯繫插件作者。",
+    "message": "請重啟遊戲再試一次。如果再次出現此錯誤，請聯繫插件開發者。",
     "description": "Locs.get_ErrorModal_InstallContactAuthor"
   },
   "InstallerInstallFail": {
@@ -1704,11 +1704,11 @@
     "description": "Locs.get_FeedbackModal_IncludeLastError"
   },
   "InstallerFeedbackIncludeLastErrorHint": {
-    "message": "這選項有助於插件作者確定問題的來源。",
+    "message": "這選項有助於插件開發者確定問題的來源。",
     "description": "Locs.get_FeedbackModal_IncludeLastErrorHint"
   },
   "InstallerFeedbackHint": {
-    "message": "所有插件作者都可以看到你的意見。\n請不要在意見中包含個人資料或任何敏感內容。\n如果你選擇了附上最後一條錯誤資訊，你的 Windows 用戶名也可能會被包含在內。\n\n收集到的意見將會立即轉發至 Discord ，而不會在伺服器儲存。",
+    "message": "所有插件開發者都可以看到你的意見。\n請不要在意見中包含個人資料或任何敏感內容。\n如果你選擇了附上最後一條錯誤資訊，你的 Windows 用戶名也可能會被包含在內。\n\n收集到的意見將會立即轉發至 Discord ，而不會在伺服器儲存。",
     "description": "Locs.get_FeedbackModal_Hint"
   },
   "InstallerFeedbackNotificationSuccess": {
@@ -1780,7 +1780,7 @@
     "description": "Locs.get_VerifiedCheckmark_VerifiedTooltip"
   },
   "VerifiedCheckmarkUnverifiedTooltip": {
-    "message": "此插件尚未經過 Dalamud 團隊審核。\n我們無法對第三方插件及倉庫承擔任何責任。\n請務必確認僅從你信任的作者安裝插件。\n\n從第三方插件倉庫安裝的插件將無法在 XIVLauncher & Dalamud 伺服器獲得支援。",
+    "message": "此插件尚未經過 Dalamud 團隊審核。\n我們無法對第三方插件及倉庫承擔任何責任。\n請務必確認僅從你信任的開發者安裝插件。\n\n從第三方插件倉庫安裝的插件將無法在 XIVLauncher & Dalamud 伺服器獲得支援。",
     "description": "Locs.get_VerifiedCheckmark_UnverifiedTooltip"
   },
   "ProfileManagerStartupBehavior": {
